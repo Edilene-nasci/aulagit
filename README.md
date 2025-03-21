@@ -1,5 +1,5 @@
 ESTUDOS DIO - GIT E GITHUB
-ALTERAÇÕES NO REPOSITORIO REMOTO
+ALTERAÇÕES NO REPOSITORIO REMOTO FEITO EM 21/03/2025
 
 Repositoriospara armazenar resumos sobre GIT e GITHUB [ACESSO DIRETO DA PAGINA DE ESTUDOS(https://web.dio.me/course)].
 
@@ -12,8 +12,10 @@ Repositoriospara armazenar resumos sobre GIT e GITHUB [ACESSO DIRETO DA PAGINA D
 
 |Aulas  |  Resumos|
 |-------| --------|
-|Grave aqui alterações do repositorio| [Resumos]
-(https://github.com/Edilene-nasci/) |
+|Grave aqui alterações do repositorio| [Resumos]()
+|AULA1| [Resumos]()|
+|AULA2| [Resumos]()|
+
 
 ---
 git init
