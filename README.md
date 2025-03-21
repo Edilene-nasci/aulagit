@@ -1,4 +1,5 @@
-#ESTUDOS DIO - GIT E GITHUB
+ESTUDOS DIO - GIT E GITHUB
+ALTERAÇÕES NO REPOSITORIO REMOTO
 
 Repositoriospara armazenar resumos sobre GIT e GITHUB [ACESSO DIRETO DA PAGINA DE ESTUDOS(https://web.dio.me/course)].
 
